@@ -1,0 +1,22 @@
+.bordered-box {
+    border: 2px solid;
+}
+
+.div-root {
+    height: 100%;
+    width: 100%;
+}
+
+.div-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: start;
+}
+
+.div-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
